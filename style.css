@@ -1,0 +1,65 @@
+div{
+    width:90px;
+    height:90px;
+    display:inline-block;
+}
+.box1{
+    background-color:red;
+}
+.box2{
+    background-color:blue;
+}
+.box3{
+    background-color:green;
+}
+.box4{
+    background-color:black;
+}
+.box5{
+    background-color:yellow;
+}
+.box6{
+    background-color:purple;
+}
+.box7{
+    background-color:rgb(252, 252, 254);
+}
+.box8{
+    background-color:violet;
+}
+.box9{
+    background-color:maroon;
+}
+.box10{
+    background-color:darkslategray;
+}
+.box1:hover{
+    background-color:palevioletred;
+}
+.box2:hover{
+    background-color:rgb(237, 255, 38);
+}
+.box3:hover{
+    background-color:rgb(78, 32, 218);
+}
+.box4:hover{
+    background-color:rgb(28, 2, 11);
+}
+.box5:hover{
+    background-color:rgb(236, 36, 18);
+}
+.box6:hover{
+    background-color:rgb(92, 229, 248);
+}
+.box7:hover{
+    background-color:rgb(20, 248, 12);
+}
+.box8:hover{
+    background-color:purple;
+}
+.box9:hover{
+    background-color:floralwhite;
+}
+.box10:hover{
+    background-color:saddlebrown;
+}
